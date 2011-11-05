@@ -76,7 +76,6 @@
                         <!--<coverage>true|false</coverage>-->
                         <!--<logonly>true|false</logonly>  avd-->
                         <!--<testsize>small|medium|large</testsize>-->
-                        <testSize>small</testSize>
                         <createReport>true</createReport>
                         <!--<classes>-->
                             <!--<class>your.package.name.YourTestClass</class>-->
